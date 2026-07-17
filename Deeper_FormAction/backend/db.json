@@ -1,11 +1,18 @@
 {
   "opinions": [
     {
+      "id": 1784311752602,
+      "votes": 3,
+      "userName": "Frederico",
+      "title": "Creat Forms in React",
+      "body": "is a beutful method to create a forms in React.js"
+    },
+    {
       "id": 1,
       "userName": "Maximilian Schwarzmüller",
       "title": "Do yourself a favor and learn React!",
       "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
-      "votes": 0
+      "votes": 2
     },
     {
       "id": 2,
